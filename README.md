@@ -2,10 +2,10 @@
 - 👀 I’m interested in Python, Arduino, Java
 - 🌱 I’m currently learning Python, C# ...
 - 💞️ I’m looking to collaborate on Arduino
-- 📫 How to reach me IG : pasan_laksitha 
-                     Twitter: PasanLaksitha
-                     Facebook: pasanlaksitha
-                     Website: www.pasan.ga
+- 📫 How to reach me , IG : pasan_laksitha 
+                       Twitter: PasanLaksitha
+                       Facebook: pasanlaksitha
+                       Website: www.pasan.ga
                      
 
 <!---
