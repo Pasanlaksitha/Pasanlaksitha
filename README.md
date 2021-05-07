@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pasanlaksitha
-- 👀 I’m interested in Python, Arduino, Java
+- 👀 I’m interested in  Arduino, Java
 - 🌱 I’m currently learning Python, C# ...
-- 💞️ I’m looking to collaborate on Arduino
 - 📫 How to reach me , IG : pasan_laksitha 
                        Twitter: PasanLaksitha
                        Facebook: pasanlaksitha
