@@ -10,7 +10,7 @@ My name is Pasan Laksitha. I'm from Sri Lanka and currently study at Royal Colle
 
 ### Writings ✍
 Apart from coding, I also write answers on [Stack Overflow](https://stackoverflow.com/users/13679551/pasan-laksitha).
-also, i'm making Graphic Content and
+also, i'm making Graphic Contents
 
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -25,8 +25,8 @@ also, i'm making Graphic Content and
 
 
 ### Github Stats 📈
-[![](https://github-readme-stats.vercel.app/api?username=Pasan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
+[![](https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pasan&repo=Arduino-Bluetooth-Detonator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Pasanlaksitha&repo=Arduino-Bluetooth-Detonator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Pasanlaksitha/Arduino-Bluetooth-Detonator)
