@@ -97,7 +97,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?Pasanlaksitha=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" align='center'/></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&hide_border=true&layout=compact" align="center" /></div>  
 
