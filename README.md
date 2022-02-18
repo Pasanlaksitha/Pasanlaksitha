@@ -100,16 +100,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasanlaksitha&repo=github-readme-stats&cache_seconds=86400&theme=react"/></div> 
-<br>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&theme=react&show_icons=true"/></div> 
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
+ 
   
 
 <br/>  
