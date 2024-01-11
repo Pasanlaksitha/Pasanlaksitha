@@ -117,6 +117,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&&style=flat-square" align="center" />
 </div>  
+<br>
+[![](https://visitcount.itsvg.in/api?id=Pasanlaksitha&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 
 <br/>  
