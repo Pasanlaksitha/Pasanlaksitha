@@ -101,7 +101,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&theme=react&show_icons=true"/></div> 
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 
 <br/>  
 
