@@ -2,41 +2,24 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
 
-
-
-<br/>  
-
-<br/>  
-
-
-## Github Stats  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&theme=react&show_icons=true"/></div> 
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
-
-<br/>  
-
- 
-  
-
-<br/>  
-
-  
-
-<br/>  
+## Github Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&&style=flat-square" align="center" />
-</div>  
+  <!-- GitHub Stats & Top Languages Side-by-Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasanlaksitha&show_icons=true&theme=react&rank_icon=github" alt="Pasan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasanlaksitha&layout=compact&theme=react" alt="Top Languages" />
+</div>
 
-<br>
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasanlaksitha)
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Pasanlaksitha&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
+<br/>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pasanlaksitha&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-  
-
-
-
+<div align="center">
+  <!-- Profile Views Counter Badge (Small) -->
+  <img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&color=61dafb&style=flat-square" height="20" alt="Profile Views" />
+</div>
