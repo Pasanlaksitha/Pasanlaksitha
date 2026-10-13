@@ -20,6 +20,5 @@
 <br/>
 
 <div align="center">
-  <!-- Profile Views Counter Badge (Small) -->
-  <img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&color=61dafb&style=flat-square" height="20" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&&style=flat-square" align="center" />
 </div>
