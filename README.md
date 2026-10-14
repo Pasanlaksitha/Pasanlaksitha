@@ -20,5 +20,5 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Pasanlaksitha&style=flat-square" align="center" />
 </div>
